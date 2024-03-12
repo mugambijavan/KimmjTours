@@ -17,32 +17,32 @@ export const PEOPLE_URL = [
 // FEATURES SECTION
 export const FEATURES = [
   {
-    title: 'Customized Itineraries: ',
+    title: 'Adventure Travel: ',
     icon: '/map.svg',
     variant: 'green',
     description:
-      " Tailor your travel experience to your specific interests, preferences, and budget with our personalized itineraries. Whether you're planning a romantic honeymoon, a family adventure, or a solo expedition, our team will design a bespoke travel experience that exceeds your expectations and creates memories to last a lifetime.",
+      " Adventure Safaris and Customized Road Trips : Thrilling expeditions through untamed wilderness, encountering wildlife and exploring iconic landscapes.Tailored road adventures, offering flexibility and personalized experiences.",
   },
   {
-    title: 'Catering Services:',
+    title: 'Travel Logistics:',
     icon: '/calendar.svg',
     variant: 'green',
     description:
-      " Delight your senses with our exquisite catering services, providing delectable culinary experiences tailored to your event. From intimate gatherings to lavish affairs, our expert chefs craft menus that tantalize taste buds and leave a lasting impression on your guests.",
+      " Air Ticketing and Hotel Bookings: Seamless booking of air travel, ensuring convenience and efficiency. Comprehensive accommodation arrangements, catering to varied preferences and budgets.",
   },
   {
-    title: 'Tropical Retreats',
+    title: 'Team Building and Experiences:',
     icon: '/tech.svg',
     variant: 'green',
     description:
-      "Escape to paradise with our luxurious beach getaways. From the idyllic shores of Zanzibar to the secluded beaches of Lamu, indulge in ultimate relaxation as you soak up the sun, swim in crystal-clear waters, and discover the enchanting marine life beneath the surface.",
+      "Teambuilding and Adventure and Safari Experiences: Engaging activities fostering teamwork, collaboration, and employee development.Immersive adventures, combining exploration, cultural immersion, and outdoor activities.",
   },
   {
     title: 'Event Management:',
     icon: '/location.svg',
     variant: 'orange',
     description:
-      " Entrust the success of your special occasions to our dedicated event management team. Whether it's a corporate conference, a wedding celebration, or a social gathering, we handle every detail with precision and professionalism, ensuring seamless execution and unforgettable experiences for you and your guests.",
+      " Conference Facilities Bookings and Events Planning: : Access to venues equipped for professional gatherings, conferences, and seminars.Expert coordination and execution of events, from corporate functions to social celebrations.",
   },
 ];
 
