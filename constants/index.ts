@@ -42,14 +42,14 @@ export const FEATURES = [
     icon: '/location.svg',
     variant: 'orange',
     description:
-      " Conference Facilities Bookings and Events Planning: : Access to venues equipped for professional gatherings, conferences, and seminars.Expert coordination and execution of events, from corporate functions to social celebrations.",
+      " Conference Facilities Bookings and Events Planning: Access to venues equipped for professional gatherings, conferences, and seminars.Expert coordination and execution of events, from corporate functions to social celebrations.",
   },
 ];
 
 // FOOTER SECTION
 
 export const SOCIALS = {
-  title: 'Our Socials',
+  title: '. Our Socials .',
   links: [
     '/facebook.svg',
     '/instagram.svg',
